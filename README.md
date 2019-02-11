@@ -6,3 +6,5 @@
 1. make a commit on that branch (create a new file, or modify this one (`README.md`)). don't push to `master` branch.
 1. push the commit.
 1. switch back to `master` branch on your local repository (with `git checkout`).
+
+caleb edited this part. 
